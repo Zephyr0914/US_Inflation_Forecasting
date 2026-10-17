@@ -84,7 +84,3 @@ The paper leaves several details open, so these are my choices. All are easy to 
   doi     = {10.1007/s00521-016-2766-x}
 }
 ```
-
-## License
-
-MIT (code only). The paper itself is © The Natural Computing Applications Forum / Springer.
